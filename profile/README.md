@@ -1,4 +1,4 @@
-# :belgium: OpenStreetMap Belgium
+# :belgium: OpenStreetMap Belgium on GitHub :octocat:
 
 ## Projects
 
