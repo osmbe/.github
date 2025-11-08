@@ -20,4 +20,5 @@
 
 - [Website](https://github.com/osmbe/website) : <https://openstreetmap.be/>
 - [Playground](https://github.com/osmbe/play) : <https://play.osm.be/>
+- [Historical map](https://github.com/osmbe/historical-map) : <https://historical.osm.be/>
 - [Presentations, logos, branding, ...](https://github.com/osmbe/presentations)
